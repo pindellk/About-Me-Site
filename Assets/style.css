@@ -12,5 +12,9 @@ body {
 }
 
 .border-top {
-    border-width: 8px !important;
+    border-width: 6px !important;
+}
+
+footer {
+    font-size: 12px;
 }
