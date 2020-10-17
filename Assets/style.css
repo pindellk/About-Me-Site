@@ -12,9 +12,10 @@ body {
 }
 
 .border-top {
-    border-width: 6px !important;
+    border-width: 4px !important;
 }
 
 footer {
+    padding-top: 6px;
     font-size: 12px;
 }
